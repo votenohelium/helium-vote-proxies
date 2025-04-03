@@ -1,5 +1,13 @@
 [
-  {
+    {
+    "wallet": "GYYFKs58Av5MFke2N7fuqxwDZCxCXTyiR9Qqw7uQorpA",
+    "name": "I Vote No",
+    "image": "./proxies/vote-no/IVoteNo.png",
+    "description": "I Vote No",
+    "detail": "./proxies/vote-no/detail.md",
+    "networks": ["HNT"]
+  }, 
+ {
     "wallet": "FEREBEE69Lu83YuxB73yUp1w6onRgRCNPgwrLLnwATLd",
     "name": "ferebee",
     "image": "./proxies/ferebee/image.png",
